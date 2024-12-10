@@ -1,6 +1,6 @@
 /* Copyright (c) 2020 MTHS All rights reserved
  *
- * Created by: 
+ * Created by: Rebecca de Bore
  * Created on: dec 2024
  * This program moves sprite in a square
 */
